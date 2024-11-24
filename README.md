@@ -13,14 +13,15 @@
 
 
 
-
-## :film_projector: Sobre:
 <a id="sobre"></a>
+## :film_projector: Sobre:
+
 
 Estamos fazendo um projeto que busca suprir as necessidades dos **atletas** e **entusiastas de basquete** no que tange ao *mapeamento e organização da utilização de arenas públicas*. Esperamos melhorar a **logística** e **organização de jogos independentes**. Para isso, optamos por utilizar a linguagem **Phyton** com o framework **django** para o *Back-End* e **HTML**, **CSS** e **Bootstrap** de framework para o *Front-End*.
 
-## :raising_hand: Nossa Equipe:
 <a id="equipe"></a>
+## :raising_hand: Nossa Equipe:
+
 
 
 
@@ -36,8 +37,8 @@ Samya Soares Pereira| Front-End
 
 
 
-## :bookmark_tabs: Requisitos Funcionais:
 <a id="requisitos_funcionais"></a>
+## :bookmark_tabs: Requisitos Funcionais:
 
 
 
@@ -55,8 +56,8 @@ RF009 | Exemplo 4 |   ✕
 RF010 | Exemplo 4 |   ✕
 
 
-## :memo: Relatório e Apresentação:
 <a id="relatorio_apresentacao"></a>
+## :memo: Relatório e Apresentação:
 
 
 #### Arquivos e Documentos Importantes:
