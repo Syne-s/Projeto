@@ -44,12 +44,12 @@ Samya Soares Pereira| Front-End
 
 Código  | Descrição | Status
 ------- | ------    | :------: 
-RF001 | Cadastrar Usuário   |   ✓
+RF001 | Cadastrar Usuário   |   ✕
 RF002 | Filtrar Bairro |   ✕
 RF003 | Buscar Rachas |   ✕
 RF004 | Editar Dados do Usuário |   ✕
 RF005 | Deslogar do Sistema |   ✕
-RF006 | Exemplo 1 |   ✕
+RF006 | Exemplo 1 |   ✓
 RF007 | Exemplo 2 |   ✕
 RF008 | Exemplo 3 |   ✕
 RF009 | Exemplo 4 |   ✕
