@@ -44,16 +44,16 @@ Samya Soares Pereira| Front-End
 
 Código  | Descrição | Status
 ------- | ------    | :------: 
-RF001 | Exemplo   |   ✓
-RF002 | Exemplo 2 |   ✕
-RF003 | Exemplo 3 |   ✕
-RF004 | Exemplo 4 |   ✕
-RF005 | Exemplo 4 |   ✕
-RF006 | Exemplo 4 |   ✕
-RF007 | Exemplo 4 |   ✕
-RF008 | Exemplo 4 |   ✕
+RF001 | Cadastrar Usuário   |   ✓
+RF002 | Filtrar Bairro |   ✕
+RF003 | Buscar Rachas |   ✕
+RF004 | Editar Dados do Usuário |   ✕
+RF005 | Deslogar do Sistema |   ✕
+RF006 | Exemplo 1 |   ✕
+RF007 | Exemplo 2 |   ✕
+RF008 | Exemplo 3 |   ✕
 RF009 | Exemplo 4 |   ✕
-RF010 | Exemplo 4 |   ✕
+RF010 | Exemplo 5 |   ✕
 
 
 <a id="relatorio_apresentacao"></a>
