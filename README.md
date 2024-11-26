@@ -1,4 +1,4 @@
-# Synes - {Título}
+# Synes - CadêURacha
 
 ###### Palavras-Chave: Basquete • Projeto Integrado I • Sistemas e Mídias Digitais
 
@@ -45,13 +45,13 @@ Samya Soares Pereira| Front-End
 Código  | Descrição | Status
 ------- | ------    | :------: 
 RF001 | Cadastrar Usuário   |   ✕
-RF002 | Filtrar Bairro |   ✕
-RF003 | Buscar Rachas |   ✕
-RF004 | Editar Dados do Usuário |   ✕
-RF005 | Deslogar do Sistema |   ✕
-RF006 | Exemplo 1 |   ✓
-RF007 | Exemplo 2 |   ✕
-RF008 | Exemplo 3 |   ✕
+RF002 | Autenticar Usuário |   ✕
+RF003 | Cadastrar Quadras |   ✕
+RF004 | Cadastrar Eventos |   ✕
+RF005 | Filtrar Bairro |   ✕
+RF006 | Buscar Rachas |   ✓
+RF007 | Editar Dados do Usuário |   ✕
+RF008 | Sair do Sistema |   ✕
 RF009 | Exemplo 4 |   ✕
 RF010 | Exemplo 5 |   ✕
 
