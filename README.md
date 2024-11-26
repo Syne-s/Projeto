@@ -1,6 +1,6 @@
 # Synes - CadêURacha
 
-###### Palavras-Chave: Basquete • Projeto Integrado I • Sistemas e Mídias Digitais
+###### Palavras-Chave: Basquete • Projeto Integrado I • Sistemas e Mídias Digitais • CadêURacha
 
 
 
